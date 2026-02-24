@@ -5,7 +5,7 @@ Hi! I am an engineering manager for Azure Cognitive Services at Microsoft in Sil
 My focus is innovation and bringing new ideas into products. I have more than 17 years of software development experience building successful cloud native services, while managing large, diverse multi-site teams. 
 
 ## Getting in touch
-- Twitter: https://twitter.com/splusq
+- Twitter: https://x.com/splusq
 - LinkedIn: https://www.linkedin.com/in/salmanquazi/
 - Personal site: https://salmanq.com/
 
