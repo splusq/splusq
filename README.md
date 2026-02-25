@@ -9,4 +9,4 @@ My focus is innovation and bringing new ideas into products. I have more than 17
 - LinkedIn: https://www.linkedin.com/in/salmanquazi/
 - Personal site: https://salmanq.com/
 
-![Salman's github stats](https://github-readme-stats.vercel.app/api?username=splusq&show_icons=true)
+![Salman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=splusq)
